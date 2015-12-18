@@ -1,14 +1,21 @@
 *.class
+<<<<<<< HEAD
 *.classpath
 *.project
 *.mymetadata
 .settings/
+=======
+>>>>>>> 41026bcb7168c1e5751cc21f94026480c554fbfa
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
 # Package Files #
+<<<<<<< HEAD
 #*.jar
+=======
+*.jar
+>>>>>>> 41026bcb7168c1e5751cc21f94026480c554fbfa
 *.war
 *.ear
 
